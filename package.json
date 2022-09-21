@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-gsm-rts-modnar",
+  "version": "1.0.0",
+  "description": "random string msg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sorsant/random-str-msg-gsm-rts-modnar.git"
+  },
+  "keywords": [],
+  "author": "Lautaro soraire santagada <lautaa26@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sorsant/random-str-msg-gsm-rts-modnar/issues"
+  },
+  "homepage": "https://github.com/Sorsant/random-str-msg-gsm-rts-modnar#readme",
+  "bin":{
+    "random-str-msg":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
